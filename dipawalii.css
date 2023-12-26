@@ -1,0 +1,69 @@
+.dipawali-top{
+    background-image: url(./depamimage.avif);
+    height: 50vh;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    
+}
+.heading-top{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    width: 280px;
+    padding: 50px;
+}
+.dflex{
+    
+    height:50vh;;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.dipawali-bottom{
+    text-align: center;
+    height: 50vh;
+    background-color: aqua;
+    padding: 20px;
+    width: 100%; 
+}
+
+.card{
+    text-align: center;
+    background-color: aliceblue;
+    width: 180px;
+    border-radius: 25px;
+    padding: 14px;
+    margin: 10px;
+}
+.img-buttom{
+    height: 90px;
+    width: 90px;
+}
+.para{
+ font-size: 18px;
+ font-style: italic;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+.price{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+.card:hover{
+    color:greenyellow;
+    background-color: red;
+}
+.btn{
+    height: 40px;
+    width: 150px;
+    background-color:darkgreen;
+    color: white;
+    border-radius: 8px;
+    border-width: 0px;
+    font-size: 18px;
+}
+
